@@ -1,4 +1,4 @@
-# Bitcoin Introdustion Course
+# Bitcoin Introduction Course
 
 ## Understanding
   - What Is Money
