@@ -1,7 +1,7 @@
 # 📚 **Bitcoin Intro Course**
 
-This one-hour session introduces you to the fundamentals of Bitcoin and why it's become such a powerful force in today's world. We’ll cover the basics of how Bitcoin works, its origins, and its purpose, with a brief look at how people use it globally.  
-Perfect for beginners, this class will give you the foundational knowledge to understand Bitcoin’s unique role in the financial landscape and spark your journey toward deeper learning.
+  This one-hour session introduces you to the fundamentals of Bitcoin and why it's become such a powerful force in today's world. We’ll cover the basics of how Bitcoin works, its origins, and its purpose, with a brief look at how people use it globally.  
+- Perfect for beginners, this class will give you the foundational knowledge to understand Bitcoin’s unique role in the financial landscape and spark your journey toward deeper learning.
 
 ---
 
